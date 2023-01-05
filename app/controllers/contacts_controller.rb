@@ -12,4 +12,7 @@ class ContactsController < ApplicationController
       render :new
     end
   end
+
+  def top
+  end
 end
